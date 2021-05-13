@@ -2,7 +2,7 @@
 
 A pizza ordering website made using PHP and MySQL.
 
-[Link to website]()
+[Link to website](https://ez-pizza.herokuapp.com) -> the website is not working atm
 
 ## Screenshots
 
